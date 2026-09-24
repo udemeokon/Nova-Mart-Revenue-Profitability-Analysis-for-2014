@@ -5,24 +5,26 @@ Nova Mart’s 2014 Revenue &amp; Profitability Dashboard delivers clear, data-dr
 <img width="1852" height="885" alt="Lesson 8 - Replicated Dashboard" src="https://github.com/user-attachments/assets/fb27d28c-532d-411e-999f-d3fae8a8b6cf" />
 
 1. Outline
-1.	Introduction
-2.	Story of Data
-3.	Data Splitting and Preprocessing
-4.	Pre-Analysis
-5.	In-Analysis
-6.	Post-Analysis and Insights
-7.	Data Visualizations & Charts
-8.	Recommendations and Observations
-9.	Conclusion
-10.	References & Appendices
+2.	Introduction
+3.	Story of Data
+4.	Data Splitting and Preprocessing
+5.	Pre-Analysis
+6.	In-Analysis
+7.	Post-Analysis and Insights
+8.	Data Visualizations & Charts
+9.	Recommendations and Observations
+10.	Conclusion
+11.	References & Appendices
  
-2. Introduction
-Objective of the Project
+
+**2. Introduction**
+**Objective of the Project**
 The objective of this project is to analyze one full fiscal year (January–December 2014) of sales and distribution transactions for Nova Mart., a Fast-Moving Consumer Goods (FMCG) distributor, in order to uncover performance trends across regions, states, cities, sales representatives, product categories, and customers. The analysis is designed to translate raw transactional data into a consolidated, interactive Excel dashboard and a set of actionable recommendations that management can use to guide strategic decisions for the coming year, including resource allocation, sales coaching, regional expansion, and inventory planning.
 Problem Being Addressed
+
 Prior to this analysis, sales performance data existed only as a flat, transaction-level export with 369 individual order records and 26 fields per record. In this raw form, the data could not answer basic strategic questions — which regions, salespeople, products, and customers drive the majority of revenue, how sales fluctuate through the year, and where the business is over-exposed to a small number of high-performing accounts or individuals. The analysis therefore aims to answer: Where is revenue concentrated, where is it lagging, and what specific actions should management take to grow underperforming segments while protecting the segments the business currently depends on?
 
-Key Datasets and Methodologies
+**Key Datasets and Methodologies**
 A single dataset was used: a 2014 order-level sales transaction log ("Data" sheet) containing 369 rows and 26 columns, covering order and shipping details, customer and salesperson identity, geography, product/category, pricing, quantity, revenue, and shipping fees. The analysis was carried out entirely in Microsoft Excel using the following methodologies:
 ●	PivotTables — to aggregate revenue by region, state, city, salesperson, customer, product category, and month.
 ●	PivotCharts — bar charts, pie charts, radar/web charts, line charts, and a treemap to visualize the pivoted summaries.
@@ -30,7 +32,8 @@ A single dataset was used: a 2014 order-level sales transaction log ("Data" shee
 ●	A consolidated interactive dashboard — combining the individual PivotCharts, KPI cards, and slicers into a single management-facing view.
 ●	Narrative insight boards — structured pre-analysis, in-analysis, post-analysis, and recommendations write-ups documenting the reasoning behind each visualization.
  
-3. Story of Data
+
+**3. Story of Data**
 Data Source
 The dataset is a company-internal sales and distribution transaction log for Nova Mart., covering the 2014 calendar year. It captures order-level detail generated through the company's order processing and shipping workflow rather than survey or third-party market data.
 Data Collection Process
