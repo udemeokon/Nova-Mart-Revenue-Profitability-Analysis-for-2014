@@ -18,6 +18,7 @@ Nova Mart’s 2014 Revenue &amp; Profitability Dashboard delivers clear, data-dr
  
 
 **2. Introduction**
+
 **Objective of the Project**
 The objective of this project is to analyze one full fiscal year (January–December 2014) of sales and distribution transactions for Nova Mart., a Fast-Moving Consumer Goods (FMCG) distributor, in order to uncover performance trends across regions, states, cities, sales representatives, product categories, and customers. The analysis is designed to translate raw transactional data into a consolidated, interactive Excel dashboard and a set of actionable recommendations that management can use to guide strategic decisions for the coming year, including resource allocation, sales coaching, regional expansion, and inventory planning.
 Problem Being Addressed
