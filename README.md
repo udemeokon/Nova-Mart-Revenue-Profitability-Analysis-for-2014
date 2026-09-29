@@ -35,6 +35,7 @@ A single dataset was used: a 2014 order-level sales transaction log ("Data" shee
  
 
 **3. Story of Data**:
+
 **Data Source**: 
 The dataset is a company-internal sales and distribution transaction log for Nova Mart., covering the 2014 calendar year. It captures order-level detail generated through the company's order processing and shipping workflow rather than survey or third-party market data.
 Data Collection Process
@@ -44,11 +45,17 @@ Each row of the dataset represents a single order transaction, automatically gen
 The dataset is organized with each row representing one order-line transaction and each column representing a distinct variable. It spans 369 transaction rows and 26 columns, including:
 
 ●	Order details: Order ID, Order Date, Shipped Date, Shipper Name
+
 ●	Customer details: Customer ID, Customer Name, Address, City, State, ZIP/Postal Code, Country/Region
+
 ●	Sales details: Salesperson, Region
+
 ●	Shipping details: Ship Name, Ship Address, Ship City, Ship State, Ship ZIP/Postal Code, Ship Country/Region, Payment Type
+
 ●	Product details: Product Name, Category, Unit Price, Quantity
+
 ●	Financial outcomes: Revenue, Shipping Fee
+
 Important Features and Their Significance
 
 ●	Revenue: the core performance metric used throughout the analysis — the sum of Revenue underpins every regional, product, state, city, and salesperson comparison in the report.
