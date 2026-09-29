@@ -87,7 +87,8 @@ Important Features and Their Significance
 
 ●	No cost/margin data: the dataset provides Revenue and Shipping Fee but not cost of goods sold, so profitability (as opposed to top-line revenue) could not be assessed.
  
-**4. Data Splitting and Preprocessing**:
+
+**4. Data Splitting and Preprocessing**
 
 **Data Cleaning**
 The 369-row transaction export was reviewed for duplicate Order IDs, blank critical fields (Revenue, Region, Product Name), and inconsistent text values (e.g., city/state naming) prior to building PivotTables. The data was confirmed to be a clean, ready-to-aggregate transaction log with one row per order line.
