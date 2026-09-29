@@ -39,7 +39,7 @@ The dataset is a company-internal sales and distribution transaction log for Nov
 Data Collection Process
 Each row of the dataset represents a single order transaction, automatically generated at the point of sale/shipment and recorded with its associated order date, shipped date, customer, salesperson, product, and financial details. The data was extracted from the internal sales/order system as a structured export and consolidated into a single "Data" worksheet for analysis in Excel.
 
-Data Structure
+**Data Structure**
 The dataset is organized with each row representing one order-line transaction and each column representing a distinct variable. It spans 369 transaction rows and 26 columns, including:
 ●	Order details: Order ID, Order Date, Shipped Date, Shipper Name
 ●	Customer details: Customer ID, Customer Name, Address, City, State, ZIP/Postal Code, Country/Region
