@@ -27,6 +27,7 @@ Prior to this analysis, sales performance data existed only as a flat, transacti
 
 **Key Datasets and Methodologies**:
 A single dataset was used: a 2014 order-level sales transaction log ("Data" sheet) containing 369 rows and 26 columns, covering order and shipping details, customer and salesperson identity, geography, product/category, pricing, quantity, revenue, and shipping fees. The analysis was carried out entirely in Microsoft Excel using the following methodologies:
+
 ●	PivotTables — to aggregate revenue by region, state, city, salesperson, customer, product category, and month.
 ●	PivotCharts — bar charts, pie charts, radar/web charts, line charts, and a treemap to visualize the pivoted summaries.
 ●	Calculated groupings/bins — to bucket transactions by revenue-amount ranges (e.g., 10–1010, 1010–2010) for a distribution analysis.
