@@ -123,6 +123,7 @@ In the FMCG distribution industry, success is largely defined by generating more
 **5. Pre-Analysis**
 
 **Identify Key Trends**
+
 ●	The North region alone accounts for approximately 32.6% of total revenue ($141,680.34), indicating a high dependency on a single geographic area.
 
 ●	North and East together generate $249,955.85 — roughly 57% of total sales — while South and West contribute the remaining 43%, revealing a two-tier regional maturity split.
