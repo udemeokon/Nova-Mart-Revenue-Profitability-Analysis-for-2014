@@ -312,6 +312,7 @@ Two findings stood out as more striking than initially expected. First, Anne Lar
 **11. References & Appendices**
 
 **References**
+
 ●	Primary data source: Nova Mart. FY2014 internal sales and distribution transaction log ("Data" worksheet), 369 order records across 26 fields, provided for this analysis.
 
 ●	Analysis and reporting tool: Microsoft Excel — PivotTables, PivotCharts, slicers, and dashboard/report layout.
